@@ -1,4 +1,4 @@
-# Part 2 (Implementing Unit Test Using JUnit - JAVA Programming)
+# Implementing Unit Test Using JUnit - JAVA Programming
 <h2> Junit Testing the Divide method for positive and negative test cases (Steps to follow) </h2>
 1. Download the file and unzip it.<br>
 2. Open the file CS612JUnitTestingLab in Eclipse<br>
